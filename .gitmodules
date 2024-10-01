@@ -1,0 +1,3 @@
+[submodule "/Users/koen/.config/nvim"]
+	path = /Users/koen/.config/nvim
+	url = git@github.com:koendebruijn/nvim.git
